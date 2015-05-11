@@ -13,13 +13,13 @@
  *
  */
 return array(
-    'year'      => '1 metai|:count metai',
-    'month'     => '1 mėnuo|:count mėnesiai',
-    'week'      => '1 savaitė|:count savaitės',
-    'day'       => '1 diena|:count dienos',
-    'hour'      => '1 valanda|:count valandos',
-    'minute'    => '1 minutė|:count minutės',
-    'second'    => '1 sekundė|:count sekundės',
+    'year'      => '1 metai|:count metai|:count metų',
+    'month'     => '1 mėnuo|:count mėnesiai|:count mėnesių',
+    'week'      => '1 savaitė|:count savaitės|:count savaičių',
+    'day'       => '1 diena|:count dienos|:count dienų',
+    'hour'      => '1 valanda|:count valandos|:count valandų',
+    'minute'    => '1 minutė|:count minutės|:count minučių',
+    'second'    => '1 sekundė|:count sekundės|:count sekundžių',
     'ago'       => 'prieš :time',
     'from_now'  => ':time nuo dabar',
     'after'     => 'po :time',
